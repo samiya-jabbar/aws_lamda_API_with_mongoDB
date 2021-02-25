@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "profile_name": "default",
+        "project_name": "shop-items",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-sqpjeaq3c",
+        "aws_region": "us-west-2"
+    }
+}
