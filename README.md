@@ -3,7 +3,7 @@
 
 **link: https://vr629hy912.execute-api.us-west-2.amazonaws.com/dev**
 
-### Guide :
+### Guide:
 It works on following endpoints:
 
 1) /getitems
